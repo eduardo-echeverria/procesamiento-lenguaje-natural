@@ -6,25 +6,25 @@ El presente repositorio contiene los desafios realizados durante la cursada de l
 
 ## Tabla de Contenidos
 
-### [Desafío 1](clase1/README.md) 
+### [Desafío 1](Desafio_1) 
 * Vectorización de documentos
 * Entrenamineto de modelos de clasificación Naïve Bayes.
 * Transposición de la matríz Documento - Término
 
-### [Desafío 2](clase2/README.md) 
+### [Desafío 2](Desafio_2) 
 
 * Creación de vectores con Gensim.
 * Embeddings: Pruebas de términos de interés y similitudes.
 * Tests de analogías
 
-### [Desafío 3](clase3/README.md)
+### [Desafío 3](Desafio_3)
 * Tokenización por palabras
 * Tokenización por caracteres.
 
-### [Desafío 4](clase4/README.md)
+### [Desafío 4](Desafio_4)
 * LSTM Chatbot
 
-### [Desafío 5](clase5/README.md)
+### [Desafío 5](Desafio_5)
 * ...
 
 

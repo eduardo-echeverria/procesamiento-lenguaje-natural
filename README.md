@@ -30,7 +30,7 @@ El presente repositorio contiene los desafios realizados durante la cursada de l
 
 ## Datasets utilizados
 
-- **Dataset 20 News Groups**: Sci-Kit Learn Datasets: "fetch_20newsgroups.
+- **Dataset 20 News Groups**: Sci-Kit Learn Datasets: "fetch_20newsgroups".
 - **Dataset Letras de Canciones Populares**: https://raw.githubusercontent.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural/main/datasets/songs_dataset.zip -o songs_dataset.zip.
 - **Dataset Libros Proyecto Gutenberg**: https://www.gutenberg.org/.
 - **Dataset wiki-news-300d-1M**: https://dl.fbaipublicfiles.com/fasttext/vectors-english/wiki-news-300d-1M.vec.zip.

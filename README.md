@@ -6,7 +6,7 @@
 
 Bienvenidos al repositorio de Procesamiento del Lenguaje Natural.
 
-El Procesamiento del Lenguaje Natural (PLN) es un campo de la inteligencia artificial que se enfoca en la interacción entre computadoras y el lenguaje humano.
+El Procesamiento del Lenguaje Natural (PLN) es un campo de la Inteligencia Artificial que se enfoca en la interacción entre computadoras y el lenguaje humano.
 
 El presente repositorio contiene los Trabajos Prácticos realizados durante la cursada de la materia de PLN, como parte de la Especialización en Inteligencia Artificial de la Universidad de Buenos Aires.
 
@@ -14,26 +14,28 @@ Los trabajos se encuentran contenidos en una colección de archivos de Jupyter N
 
 ## Tabla de Contenidos
 
-### [Desafío 1](Desafio_1) 
+### [Desafío 1](Desafio_1) 🚀
+
 * Vectorización de documentos
 * Entrenamineto de modelos de clasificación Naïve Bayes.
 * Transposición de la matríz Documento - Término
 
-### [Desafío 2](Desafio_2) 
+### [Desafío 2](Desafio_2) 🚀
 
 * Creación de vectores con Gensim.
 * Embeddings: Pruebas de términos de interés y similitudes.
 * Tests de analogías
 
-### [Desafío 3](Desafio_3)
+### [Desafío 3](Desafio_3) 🚀
 * Tokenización por palabras
 * Tokenización por caracteres.
 
-### [Desafío 4](Desafio_4)
-* LSTM Chatbot
+### [Desafío 4](Desafio_4) 🚀
+* LSTM Chatbot 🤖
 
-### [Desafío 5](Desafio_5)
-* Bert Sentiment Analysis
+### [Desafío 5](Desafio_5) 🚀
+* Bert Sentiment Analysis 🤗
+> ⚠️ **Nota:** Requiere Keras 2.15.0
 
 
 ## Datasets utilizados

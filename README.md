@@ -25,13 +25,13 @@ El presente repositorio contiene los desafios realizados durante la cursada de l
 * LSTM Chatbot
 
 ### [Desafío 5](Desafio_5)
-* ...
+* Bert Sentiment Analysis
 
 
 ## Datasets utilizados
 
 - **Dataset 20 News Groups**: Sci-Kit Learn Datasets: "fetch_20newsgroups".
-- **Dataset Letras de Canciones Populares**: https://raw.githubusercontent.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural/main/datasets/songs_dataset.zip -o songs_dataset.zip.
+- **Dataset Letras de Canciones Populares**: https://raw.githubusercontent.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural/main/datasets/songs_dataset.zip
 - **Dataset Libros Proyecto Gutenberg**: https://www.gutenberg.org/.
 - **Dataset wiki-news-300d-1M**: https://dl.fbaipublicfiles.com/fasttext/vectors-english/wiki-news-300d-1M.vec.zip.
 
@@ -42,5 +42,4 @@ Para iniciar con este proyecto, clone el repositorio e instale las dependencias:
 ```bash
 git clone https://github.com/eduardo-echeverria/procesamiento-lenguaje-natural.git
 cd procesamiento-lenguaje-natural
-pip install -r requirements.txt
 
